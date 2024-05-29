@@ -40,7 +40,7 @@ const Home: React.FC = () => {
           className={styles.textarea}
         />
         <button type="submit" className={styles.submitButton}>
-          Создать Пост
+          Создать пост
         </button>
       </form>
     </main>
